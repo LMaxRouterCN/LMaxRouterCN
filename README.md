@@ -6,4 +6,4 @@
 
 我付出最多心血的项目是[Poker-Agent](https://github.com/LMaxRouterCN/Poker-Agent)
 
-无心插柳柳成荫
+这帮byd都几把干啥呢想啥呢,每个模组都要我自己修
